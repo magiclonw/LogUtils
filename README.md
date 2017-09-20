@@ -1,5 +1,6 @@
 # LogUtils
 # 看到一个很有意思的日志工具，做成工具自己使用
+![](https://github.com/magiclonw/LogUtils/blob/master/screenshot.png)
 ## 在gradle中依赖：
 ```
 allprojects {
