@@ -3,7 +3,7 @@ package com.magiclon.logutilslibrary.baselog;
 import android.util.Log;
 
 /**
- * Created by zhaokaiqiang on 15/11/18.
+ * Created by admin
  */
 public class BaseLog {
 

@@ -14,7 +14,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.Random;
 
 /**
- * Created by zhaokaiqiang on 15/11/18.
+ * Created by admin
  */
 public class FileLog {
 

@@ -12,7 +12,7 @@ import static com.magiclon.logutilslibrary.baselog.KLog.W;
 
 
 /**
- * Created by zhaokaiqiang on 15/11/18.
+ * Created by admin
  */
 public class JsonLog {
 

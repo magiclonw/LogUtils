@@ -10,7 +10,7 @@ import static com.magiclon.logutilslibrary.baselog.KLog.W;
 
 
 /**
- * Created by zhaokaiqiang on 15/12/11.
+ * Created by admin
  */
 public class KLogUtil {
 

@@ -13,7 +13,7 @@ import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 
 /**
- * Created by zhaokaiqiang on 15/11/18.
+ * Created by admin
  */
 public class XmlLog {
 

@@ -15,9 +15,6 @@ import java.io.StringWriter;
  * <li>use KLog.d(msg),you could print log as before,and you could location the method with a click in Android Studio Logcat</li>
  * <li>use KLog.json(),you could print json string with well format automatic</li>
  * </ol>
- *
- * @author zhaokaiqiang
- *         github https://github.com/ZhaoKaiQiang/KLog
  *         15/11/17 扩展功能，添加对文件的支持
  *         15/11/18 扩展功能，增加对XML的支持，修复BUG
  *         15/12/8  扩展功能，添加对任意参数的支持
