@@ -22,5 +22,5 @@ compile 'com.github.magiclonw:LogUtils:1.0.0'
     Log.w(json);        
     Log.d(text);        
     Log.e(text);
-    Log.w(text)
+    Log.w(text);
  ```
