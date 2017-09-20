@@ -13,7 +13,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.init("MagicLon",true);
         String json = "{\"key_a\":asd,\"key_b\":\"这是bbbbbbbbb的值\"}";
+
         String text = "这是一条测试日志";
+
         Log.d(json);
         Log.e(json);
         Log.w(json);
